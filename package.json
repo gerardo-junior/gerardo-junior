@@ -2,7 +2,7 @@
   "name": "gerardo-junior",
   "version": "1.0.0",
   "description": "My life, my job, my hacks",
-  "author": "Gerardo Junior",
+  "author": "Gerardo Junior <me@gerardo-junior.com>",
   "private": true,
   "scripts": {
     "dev": "nuxt",
