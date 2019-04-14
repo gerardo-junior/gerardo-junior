@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/gerardojunior
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://gerardo-junior.com
+  * I am gerardojunior (https://keybase.io/gerardojunior) on keybase.
+  * I have a public key ASAo0sOcd-OqTxkLOCVtbJchBEewLr11xpSzRWbmXKkFMgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012028d2c39c77e3aa4f190b38256d6c97210447b02ebd75c694b34566e65ca905320a",
+      "host": "keybase.io",
+      "kid": "012028d2c39c77e3aa4f190b38256d6c97210447b02ebd75c694b34566e65ca905320a",
+      "uid": "1ee1b1eb50b33a8228e9fcc6dde5d419",
+      "username": "gerardojunior"
+    },
+    "merkle_root": {
+      "ctime": 1555221904,
+      "hash": "e5d9d563439d6162b08da4338dd683a61a83bf63a4c0d246c90b3dfeac4ec99efbe734875517368646a474c16a0f7e63e02c21d0a1fada9e0c309b2c17ae7b0f",
+      "hash_meta": "9de5be5c82d4d1478f7fd74c24da9f211cf61179b33f0eba87e49baf79e55ce5",
+      "seqno": 5164033
+    },
+    "service": {
+      "entropy": "78qW6gDuWLtYPmsoudqimTvy",
+      "hostname": "gerardo-junior.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.2.2"
+  },
+  "ctime": 1555221952,
+  "expire_in": 504576000,
+  "prev": "0be9f2384a5934ae03788d03740430dd38fdb8eab1636d0b7a5c29218a9d77ee",
+  "seqno": 16,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgKNLDnHfjqk8ZCzglbWyXIQRHsC69dcaUs0Vm5lypBTIKp3BheWxvYWTESpcCEMQgC+nyOEpZNK4DeI0DdAQw3Tj9uOqxY20LelwpIYqdd+7EIOStknL3qTGOnXGsuxkkXnrpgPUdOOo0V7vdPOL0LVdoAgHCo3NpZ8RAwDsuuvORUCpdtgHKSNiJEL4o2OhnwYpMXbYrIG0Zy9GCMTO31yqCxrnbIyyJuI1/BL0MS8OjKdnnicOXaw/0BahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIA0396Nq3c9tNmysbVtb2zhCrqIH01E5r6TVzwIPo82xo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gerardojunior
+
+==================================================================
