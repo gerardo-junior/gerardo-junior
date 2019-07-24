@@ -1,6 +1,6 @@
 <template>
   <v-app dark>
-    <h1>Site fora do ar, com problemas técnicos. entre em contato: <a href="mailto:contato@gerardo-junior.com" style="color:#fff">contato@gerardo-junior.com</a></h1>
+    <h1>Site fora do ar, com problemas técnicos. entre em contato: <a href="mailto:contact@gerardo-junior.com" style="color:#fff">contact@gerardo-junior.com</a></h1>
   </v-app>
 </template>
 
