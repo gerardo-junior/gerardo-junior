@@ -5,18 +5,6 @@
 </template>
 
 <script>
-  // Initialize the agent at application startup.
-  const fpPromise = import('https://fpcdn.io/v3/aewEg1QONpTg4REq4kJV')
-    .then(FingerprintJS => FingerprintJS.load())
-
-  // Get the visitor identifier when you need it.
-  fpPromise
-    .then(fp => fp.get())
-    .then(result => {
-      // This is the visitor identifier:
-      const visitorId = result.visitorId
-      console.log(visitorId)
-    })
   export default {
   }
 </script>
