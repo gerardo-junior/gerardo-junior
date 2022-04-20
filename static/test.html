@@ -11,7 +11,7 @@
     <script>
         // Initialize the agent at application startup.
         const fpPromise = import('https://fpcdn.io/v3/aewEg1QONpTg4REq4kJV')
-          .then(FingerprintJS => FingerprintJS.load())
+          .then(FingerprintJS => FingerprintJS.load({apiKey: 'aewEg1QONpTg4REq4kJV', endpoint: 'https://fp.gerardo-junior.com'}))
       
         // Get the visitor identifier when you need it.
         fpPromise
@@ -19,7 +19,7 @@
           .then(result => {
             // This is the visitor identifier:
             const visitorId = result.visitorId
-            console.log(visitorId)
+            alert(visitorId)
           })
       </script>
 </body>
