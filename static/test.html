@@ -6,12 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
+  
 <body>
     
+  
+  <script src="https://gerardo-junior.com/fp.js" ></script>
     <script>
-        // Initialize the agent at application startup.
-        const fpPromise = import('https://fpcdn.io/v3/aewEg1QONpTg4REq4kJV')
-          .then(FingerprintJS => FingerprintJS.load({apiKey: 'aewEg1QONpTg4REq4kJV', endpoint: 'https://fp.gerardo-junior.com'}))
+        var fpPromise = FingerprintJS.load({apiKey: 'aewEg1QONpTg4REq4kJV', endpoint: 'https://fp.gerardo-junior.com'})
       
         // Get the visitor identifier when you need it.
         fpPromise
